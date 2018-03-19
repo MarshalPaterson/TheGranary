@@ -1,6 +1,6 @@
 {
   "name": "thegranary",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/MarshalPaterson/TheGranary.git"
@@ -10,7 +10,7 @@
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "buildnpm": "npm run build && npm version patch --force && npm publish && git push && git commit -a -m \"Changed and updated\" "
+    "buildnpm": "npm run build && npm version patch --force && npm publish && git push"
   },
   "author": "Marshal Paterson",
   "license": "MIT",
