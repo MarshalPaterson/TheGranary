@@ -9,6 +9,7 @@ export default class TheGranary {
         }
         return TheGranary.instance;
     }
+    // Set Granary store
     public setGranary(name:string, state:any):void
     {
         this.grain[name] = state;

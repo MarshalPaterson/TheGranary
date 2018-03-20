@@ -10,6 +10,7 @@ class TheGranary {
         }
         return TheGranary.instance;
     }
+    // Set Granary store
     setGranary(name, state) {
         this.grain[name] = state;
     }
