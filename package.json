@@ -1,6 +1,6 @@
 {
   "name": "the-granary",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarshalPaterson/the-granary.git"
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/MarshalPaterson/the-granary/issues"
   },
-  "homepage": "https://github.com/MarshalPaterson/the-granary#readme"
+  "homepage": "https://github.com/MarshalPaterson/the-granary#readme",
+  "dependencies": {}
 }
