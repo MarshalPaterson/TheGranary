@@ -6,7 +6,7 @@ This is a store management class for React Native. This allows to store variable
 Import to use
 
 ```
-import TheGranary from 'TheGranary';
+import TheGranary from 'the-granary';
 ```
 
 To set:
