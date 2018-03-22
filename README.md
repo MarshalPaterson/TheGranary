@@ -12,15 +12,15 @@ import TheGranary from 'the-granary';
 To set:
 
 ```
-let g = TheGranary.getInstance()
-g.setGranary("Tester", "This is grain");
+let grain = TheGranary.getInstance()
+grain.setGranary("Tester", "This is grain");
 ```
 
 To get:
 
 ```
-let g = TheGranary.getInstance();
-let t = g.getGranary("Tester");
+let grain = TheGranary.getInstance();
+let testGrain = grain.getGranary("Tester");
 
-this.setState({test: t});
+this.setState({test: testGrain});
 ```
