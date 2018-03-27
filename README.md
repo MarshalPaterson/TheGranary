@@ -24,3 +24,5 @@ let testGrain = grain.getGranary("Tester");
 
 this.setState({test: testGrain});
 ```
+
+For a demo that works with React Native, Marshalling, React Navigation and The Granary please go here: https://github.com/MarshalPaterson/TheGranaryMarshallingNavigation
