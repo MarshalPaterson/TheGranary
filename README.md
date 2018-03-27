@@ -3,6 +3,9 @@ This is a store management class for React Native. This allows to store variable
 <p align="center">
   <img width="198" height="286" src="https://github.com/MarshalPaterson/the-granary/blob/master/assets/TheGranary.png?raw=true">
 </p>
+
+The Granary is written in Typescript for React Native applications.
+
 Import to use
 
 ```
