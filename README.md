@@ -1,3 +1,5 @@
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]() [![Build Status](https://travis-ci.org/MarshalPaterson/the-granary.svg?branch=master)](https://travis-ci.org/MarshalPaterson/the-granary)
+
 # The Granary
 This is a store management class for React Native. This allows to store variables across components. It is a single source of truth without being intrusive and has no extensive boilerplate setup. Clean and simple access to your session variables. 
 <p align="center">
